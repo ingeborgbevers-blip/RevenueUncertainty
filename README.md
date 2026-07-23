@@ -3,7 +3,7 @@ Below is an updated README following the structure of your existing portfolio te
 ````markdown
 # Revenue Is Only Part of the Margin Story
 
-![Power BI Dashboard](Revenue%20uncertainty%20dashboard.png)
+![Power BI Dashboard](Revenue%20uncertainty.png)
 
 ## Overview
 
