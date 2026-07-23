@@ -1,6 +1,3 @@
-Below is an updated README following the structure of your existing portfolio template, but tailored to the **Revenue Is Only Part of the Margin Story** case study. It reflects the dashboard figures, business question, exception logic and limitations in the finished PDF.  The structure also remains consistent with your existing GitHub project format. 
-
-````markdown
 # Revenue Is Only Part of the Margin Story
 
 ![Power BI Dashboard](Revenue%20uncertainty.png)
